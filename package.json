@@ -1,0 +1,29 @@
+{
+  "name": "scrumtastic-bates829",
+  "version": "1.0.0",
+  "description": "A web app for SCRUM software development",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S17cis526/scrumtastic-Bates829.git"
+  },
+  "keywords": [
+    "SCRUM",
+    "software",
+    "development",
+    "task",
+    "board"
+  ],
+  "author": "Ryan Bates",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S17cis526/scrumtastic-Bates829/issues"
+  },
+  "homepage": "https://github.com/S17cis526/scrumtastic-Bates829#readme",
+  "dependencies": {
+    "sqlite3": "3.1.8"
+  }
+}
